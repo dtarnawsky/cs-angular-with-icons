@@ -1,0 +1,7 @@
+{
+  "name": "cs-angular-with-icons",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
